@@ -1,1 +1,0 @@
-import{_ as e}from"./index.8e424e4f.js";import{o,e as s}from"./vendor.dbe0d6c6.js";const t={props:{url:String},data(){return{}},methods:{},mounted(){}},c=["src"];function n(a,d,r,i,l,m){return o(),s("img",{class:"",loading:"lazy",referrerpolicy:"no-referrer",src:r.url},null,8,c)}var f=e(t,[["render",n]]);export{f as c};
