@@ -1,1 +1,0 @@
-import{_ as e}from"./index.55204da4.js";import{o,e as t,h as s}from"./vendor.dbe0d6c6.js";const r={data(){return{}},mounted(){}},a={class:""},n=s("div",null,"404",-1),c=[n];function d(_,i,p,f,l,m){return o(),t("div",a,c)}var v=e(r,[["render",d]]);export{v as default};
